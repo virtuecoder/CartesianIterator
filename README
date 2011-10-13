@@ -1,0 +1,2 @@
+Iterates over Cartesian product for an array of Iterables.
+Yields an array of objects on each step containing values from each of the Iterables.
